@@ -1,3 +1,7 @@
 villanueva
 EXERCICI 4 FENT CAMBIS A LA VEGADA
+<<<<<<< HEAD
 usuari2
+=======
+usuari1
+>>>>>>> c182ddb30432801f200235a63ba95ec4bb3b2850
